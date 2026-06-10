@@ -1,91 +1,61 @@
-# spotify-playlist-archive <a href="https://www.buymeacoffee.com/mackorone"><img align="right" height=36 alt="Save the Children" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
 
-> Daily snapshots of public Spotify playlists
+### [Top 50 \- Indonesia](https://open.spotify.com/playlist/37i9dQZEVXbObFQZ3JLcXt)
 
-- Website: https://spotifyplaylistarchive.com/
-- Source code: [mackorone/spotify-playlist-archive-src](https://github.com/mackorone/spotify-playlist-archive-src)
+> Your daily update of the most played tracks right now \- Indonesia.
 
-> [!IMPORTANT]  
-> This repo is "above its size quota" and thus I had to create a new repo for additional data: [mackorone/spotify-playlist-archive-2](https://github.com/mackorone/spotify-playlist-archive-2)
-> - Old (stale) list of playlists: [index.md](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
-> - New (fresh) list of playlists: [index.md](https://github.com/mackorone/spotify-playlist-archive-2/blob/main/playlists/index.md)
+[Spotify](https://open.spotify.com/user/spotify) - 898,224 likes - 50 songs - 3 hr 20 min
 
-## Motivation
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 |
+| 2 | [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 |
+| 3 | [Monolog](https://open.spotify.com/track/1zu5ZpnrSArdoaT6Qq3yo9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk the Talk](https://open.spotify.com/album/6CYiVTU1drHMvGHgMHmLQZ) | 3:27 |
+| 4 | [bergema sampai selamanya](https://open.spotify.com/track/0ql6fgz8qk0pAEKrGeSppJ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 3:18 |
+| 5 | [everything u are](https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:56 |
+| 6 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 |
+| 7 | [Nina](https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 4:37 |
+| 8 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
+| 9 | [Tarot](https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 4:48 |
+| 10 | [penjaga hati](https://open.spotify.com/track/6i9Ci0IN1q1GcnhdbKU7kZ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:20 |
+| 11 | [Orang Baru Lebe Gacor](https://open.spotify.com/track/3dANqzstXrnHIUh1r7JrGZ) | [Ecko Show](https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp), [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf), [Chesylino](https://open.spotify.com/artist/3LgpEnxGl51dSvzKJTNPNR) | [Orang Baru Lebe Gacor](https://open.spotify.com/album/5Q8d3MSnlhjlUhiuBOdC1B) | 3:36 |
+| 12 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
+| 13 | [TABOLA BALE](https://open.spotify.com/track/6KfugJFINWqA42k59hmjFr) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Seran](https://open.spotify.com/artist/7sGSFhUe26nmXPxw3KuXrj), [Juan Reza](https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u) | [TABOLA BALE](https://open.spotify.com/album/56paKQ8XwNS0fSkWaMiJMm) | 4:34 |
+| 14 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
+| 15 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 |
+| 16 | [Serana](https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 4:10 |
+| 17 | [33x](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 7:14 |
+| 18 | [Ngapain Repot](https://open.spotify.com/track/2e70v3Urrt8X2Ogz9ON1nM) | [Toton Caribo](https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu), [Wizz Baker](https://open.spotify.com/artist/4PUHVTv6waMpd1JUP7G6n2), [Fresly Nikijuluw](https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc) | [Ngapain Repot](https://open.spotify.com/album/24r01TVnDO1TcnfejOEMSD) | 4:14 |
+| 19 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/3y8RcMPYG22fRnrOi4oFJ1) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/4dyBsn9yy3PXeBgIEUvZI5) | 3:29 |
+| 20 | [Monokrom](https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:34 |
+| 21 | [Bersenja Gurau](https://open.spotify.com/track/1rRLrcbn5JQIwsDrJFLdTx) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/5MYGKGPicCeukkpkDEdVX3) | 3:14 |
+| 22 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
+| 23 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 |
+| 24 | [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 |
+| 25 | [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 |
+| 26 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
+| 27 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 |
+| 28 | [Ngga Dulu](https://open.spotify.com/track/3c3JC5TjFrEqEKheU7227c) | [Akbar Chalay](https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW), [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [ciloqciliq](https://open.spotify.com/artist/3zcke1TsWc6mZhzB1BCC9T) | [Ngga Dulu](https://open.spotify.com/album/7D0OPQURSzPpxDDolKazGX) | 3:09 |
+| 29 | [Kita usahakan rumah itu](https://open.spotify.com/track/5Egm9N7FnzsThl1CFXB2mm) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:31 |
+| 30 | [Rahasia Hati](https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM) | 4:10 |
+| 31 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
+| 32 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 |
+| 33 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 |
+| 34 | [About You](https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 5:26 |
+| 35 | [Jakarta Hari Ini](https://open.spotify.com/track/6AyBbSvcR2ZwTeR30I4jb9) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 3:41 |
+| 36 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
+| 37 | [mejikuhibiniu](https://open.spotify.com/track/13KXgSl4vs7h8y2G7V6GrB) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Puting Beliung](https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K) | 3:16 |
+| 38 | [Seandainya](https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN) | 4:23 |
+| 39 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
+| 40 | [Di Ujung Jalan](https://open.spotify.com/track/70GUGyk1sJYFTqZpSJj2KM) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Perihal Besar](https://open.spotify.com/album/1gZqKq1K0GzN6eFaEpDFcS) | 3:53 |
+| 41 | [Bintang 5](https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Puting Beliung](https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K) | 4:06 |
+| 42 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 |
+| 43 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |
+| 44 | [Kasih Aba Aba](https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Kasih Aba Aba](https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM) | 2:56 |
+| 45 | [disarankan di bandung](https://open.spotify.com/track/1BZsLiymbw2UihokAVyTrR) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm), [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [I Don't Know and I Dongker](https://open.spotify.com/album/6tKbLS7Vy0R1fQ2zUUQM3J) | 2:32 |
+| 46 | [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 |
+| 47 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 |
+| 48 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
+| 49 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
+| 50 | [Kasih Putih](https://open.spotify.com/track/2sjA4DTYveWwXo9aC62vWd) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [A Portrait Of Yovie](https://open.spotify.com/album/3tqFD0rkjl4GNerGRfAA5q) | 3:54 |
 
-Spotify's playlists are great. I like that they're updated once in a while -
-change is good! I don't like, however, that it's impossible to see older
-versions. How am I supposed to remember the name of that song I really liked?
-Apparently, I'm not alone...
-
-<details>
-<summary>Click for examples</summary>
-
-1. [Find Songs of old versions of Spotify Playlists](https://community.spotify.com/t5/Desktop-Mac/Find-Songs-of-old-versions-of-Spotify-Playlists/td-p/998504) (Dec 15, 2014)
-1. [A playlist was modified. Can I get the old songs back?](https://community.spotify.com/t5/Accounts/A-playlist-was-modified-Can-I-get-the-old-songs-back/td-p/1001889) (Dec 21, 2014)
-1. [Today's top hits -- old songs](https://community.spotify.com/t5/Content-Questions/Today-s-top-hits-old-songs/td-p/1005003) (Dec 29, 2014)
-1. [Looking for last weeks "Fresh Finds" playlist](https://community.spotify.com/t5/Content-Questions/Looking-for-last-weeks-quot-Fresh-Finds-quot-playlist/td-p/1308806) (Mar 16, 2016)
-1. [Seeing an old version of a playlist](https://community.spotify.com/t5/Content-Questions/Seeing-an-old-version-of-a-playlist/td-p/1318739) (Apr 2, 2016)
-1. [Old "New Music Friday" playlists](https://community.spotify.com/t5/Content-Questions/Old-quot-New-Music-Friday-quot-playlists/td-p/1348716) (May 20, 2016)
-1. [88 Keys playlist changed - need to find old songs](https://community.spotify.com/t5/Content-Questions/88-Keys-playlist-changed-need-to-find-old-songs/td-p/1357743) (May 31, 2016)
-1. [Old Brain Food Playlist Song](https://community.spotify.com/t5/Chat/Old-Brain-Food-Playlist-Song/td-p/2112581) (Sep 18, 2017)
-1. [The Replacement Peace Playlist](https://community.spotify.com/t5/Content-Questions/The-Replacement-Peace-Playlist/td-p/2361283) (Oct 2, 2017)
-1. [Archive of Morning Commute playlist from February 2017?](https://community.spotify.com/t5/Content-Questions/Archive-of-Morning-Commute-playlist-from-February-2017/td-p/4357812) (Jan 17, 2018)
-1. [Spotify Changed Playlist Content and I would like the old songs](https://community.spotify.com/t5/Content-Questions/Spotify-Changed-Playlist-Content-and-I-would-like-the-old-songs/td-p/4367300) (Jan 24, 2018)
-1. [View previous versions of playlists](https://community.spotify.com/t5/Content-Questions/View-previous-versions-of-playlists/td-p/4400750) (Feb 28, 2018)
-1. [Spotify changes playlists?](https://community.spotify.com/t5/Chat/Spotify-changes-playlists/td-p/4508967) (Jun 15, 2018)
-1. [Archive Spotify managed Playlists](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Archive-Spotify-managed-Playlists/td-p/4552880) (Aug 24, 2018)
-1. [Recover list of past Release Radar playlists](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Recover-list-of-past-Release-Radar-playlists/td-p/4607908) (Nov 14, 2018)
-1. [Is there any way to recover previous versions of a playlist?](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Playlists-Is-there-any-way-to-recover-previous-versions-of-a/td-p/4726831) (Apr 13, 2019)
-1. [Throwback Thursday Archive](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Throwback-Thursday-Archive/td-p/4754706) (May 23, 2019)
-1. [Former Perfect Concentration playlist songs?](https://community.spotify.com/t5/Content-Questions/Former-Perfect-Concentration-playlist-songs/td-p/4844412) (Oct 20, 2019)
-1. [Recover old version of a Spotify-created playlist?](https://community.spotify.com/t5/Content-Questions/Recover-old-version-of-a-Spotify-created-playlist/td-p/4893267) (Feb 1, 2020)
-1. [How to get an old version of a playlist](https://community.spotify.com/t5/Your-Library/How-to-get-an-old-version-of-a-playlist/td-p/5078151) (Nov 24, 2020)
-1. [Recover previous version of Spotify playlist "Rainy Day"](https://community.spotify.com/t5/Chat/Recover-previous-version-of-Spotify-playlist-quot-Rainy-Day-quot/td-p/5081678) (Nov 30, 2020)
-1. [POLLEN - Viewing songs that have been taken off the playlist](https://community.spotify.com/t5/Content-Questions/POLLEN-Viewing-songs-that-have-been-taken-off-the-playlist/td-p/5085718) (Dec 3, 2020)
-1. [Recover Official Spotify Playlist](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Recover-Official-Spotify-Playlist/td-p/5090911) (Dec 10, 2020)
-1. [Spotify archive playlists](https://community.spotify.com/t5/Content-Questions/Spotify-archive-playlists/td-p/5211833) (May 25, 2021)
-1. [Release radar old songs](https://community.spotify.com/t5/Content-Questions/Release-radar-old-songs/td-p/5241668) (Jul 30, 2021)
-1. [Option to Enable Version History for Playlists](https://community.spotify.com/t5/Live-Ideas/Option-to-Enable-Version-History-for-Playlists/idi-p/5584003) (May 20, 2023)
-
-</details>
-
-Since Spotify won't take snapshots of our favorite playlists, let's do it ourselves!
-
-## How it works
-
-This repository uses a Python script
-to scrape Spotify playlists and publish them back to the repo. The script is run daily via
-[GitHub Actions](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml).
-The script determines which playlists to scrape by looking at the file names in
-`playlists/registry`. Files get regenerated as follows: an up-to-date version of
-each playlist gets dumped in `playlists/pretty`, new tracks are added to the
-files in `playlists/cumulative`, and a plaintext version of each playlist is
-written to `playlists/plain`. The plain version is sorted alphabetically, rather
-than by track number, so that it only changes when tracks are added or removed,
-making [Git History](https://githistory.xyz/) a nice way to visualize how the
-playlist evolves over time.
-
-## FAQ
-### How do I browse the archive?
-There are two options for browsing the archive:
-1. Use the website: https://spotifyplaylistarchive.com/
-1. Browse the files on GitHub:
-   - Old: [index.md](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
-   - New: [index.md](https://github.com/mackorone/spotify-playlist-archive-2/blob/main/playlists/index.md)
-
-### How do I add a playlist to the archive?
-See [these instructions](https://github.com/mackorone/spotify-playlist-archive/blob/main/CONTRIBUTING.md#adding-playlists).
-
-### How do I recreate an old version of a playlist?
-1. Use https://spotifyplaylistarchive.com/ to find the snapshot you want
-1. Use the "Copy track URLs" button to copy the URLs to your clipboard
-1. Paste them into a Spotify playlist via the Spotify web or desktop app
-
-### Why does the archive contain the wrong songs?
-Many Spotify playlists are now [personalized](https://artists.spotify.com/blog/our-playlist-ecosystem-is-evolving).
-The archive contains the content that a logged-out user would see.
-
-### Why does the archive contain the wrong playlist names?
-Some playlist names have been manually overridden via their registry files.
-Additionally, when two or more playlists share the same name, the archive
-automatically appends a suffix like "(2)" to avoid duplicates.
+Snapshot ID: `MO8t0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
